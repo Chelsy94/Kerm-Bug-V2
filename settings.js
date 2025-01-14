@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237656520674"
-global.ownername = "Your name"
+global.ownernomer = "237694028912"
+global.ownername = "DALTON"
 global.ytname = "YT: KermHackTools"
 global.socialm = "GitHub: Kgtech-cmr"
 global.location = "Cameroon, douala, yaoundé"
 
-global.ownernumber = '237656520674'  //creator number
-global.ownername = 'your name here' //creatoe name
-global.botname = 'ད𝙆𝙚𝙧𝙢𝘽𝙪𝙜 𝙑2༒' //name of the bot
+global.ownernumber = 237694028912'  //creator number
+global.ownername = 'DALTON' //creatoe name
+global.botname = 'CONSTIPATION' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -27,8 +27,8 @@ global.link = 'https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
